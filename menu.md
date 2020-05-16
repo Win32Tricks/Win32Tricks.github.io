@@ -1,9 +1,6 @@
-# 📚 Menu (WIP)
+### 📚 Main Menu 
 
- - [Main Page](https://win32tricks.github.io)
- - Other Page
-   - Sub Page
-     - Sub Sub Page
-   - Sub Page
- - Other Page
- - Other Page
+ - [🏘 **Home Page**](https://win32tricks.github.io)
+ - [💿 **Software**](https://win32tricks.github.io/software)
+ - [🗞 **Articles**](https://win32tricks.github.io/articles)
+ 
