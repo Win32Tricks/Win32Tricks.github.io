@@ -3,7 +3,7 @@
 
 This site is dedicated to the unusual use of Win32 functions and more. If you want to follow updates, go to [our GitHub repository](https://github.com/Win32Tricks/Win32Tricks.github.io) and hit "Watch".
 
-![image](https://user-images.githubusercontent.com/25367511/82121368-1b2bd480-9795-11ea-935f-c72d10de4e67.png)
+![image](https://user-images.githubusercontent.com/25367511/82121854-cdb16680-9798-11ea-849e-4ecc0903bd11.png)
 
 ## Contribution
 
