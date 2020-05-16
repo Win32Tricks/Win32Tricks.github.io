@@ -1,4 +1,4 @@
-# PELauncher
+# My Soft
 #### [💿 Software](https://win32tricks.github.io/software) | [📚 Topics](https://win32tricks.github.io/menu)
 
 Desription
